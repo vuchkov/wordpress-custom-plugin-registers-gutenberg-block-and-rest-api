@@ -1,3 +1,6 @@
+# The WordPress plugin repository is moved to:
+https://github.com/vuchkov/latest-posts-block
+
 ## WordPress
 
 ### Installation
