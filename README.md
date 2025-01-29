@@ -1,5 +1,5 @@
-# The WordPress plugin repository is moved to:
-https://github.com/vuchkov/latest-posts-block
+# The WordPress plugin repository is already moved to:
+## https://github.com/vuchkov/latest-posts-block
 
 ## WordPress
 
