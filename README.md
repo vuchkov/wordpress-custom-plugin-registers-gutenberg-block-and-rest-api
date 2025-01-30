@@ -1,4 +1,11 @@
-## WordPress
+# The WordPress plugin repository is already moved to:
+## https://github.com/vuchkov/latest-posts-block
+
+Please use the repo above^.
+
+-------------------------------------------------------------------
+
+## WordPress & Docker
 
 ### Installation
 - Clone the repo: `git clone ...`
